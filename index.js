@@ -1,0 +1,1 @@
+console.log("Halo, Aku repo kedua, dibuat oleh Dhori Hasan");
